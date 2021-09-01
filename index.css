@@ -1,0 +1,89 @@
+@font-face {
+    font-family: "RampartOne";
+    src: url("./fonts/RampartOne-Regular.ttf");
+}
+
+.titulo {
+    color: blue;
+    font-size: 40px;
+    border-bottom: 2px solid red;
+    display: inline-block;  
+    font-family: 'RampartOne', sans-serif;   
+ 
+}
+#tituloprimero {
+    color: brown;
+    font-size: 55px;
+    font-weight: 900;
+    font-family: 'RampartOne', sans-serif;
+    text-align: center;
+}
+.img {
+    box-shadow: 20px 20px 20px 10px rgba(0, 0, 0, 0.2);
+  width: 600px;
+  height: 400px;
+  }
+.caja-Volver-futuro{
+    text-align: center;
+}
+
+.contenedor-telefe{
+    text-align: center;
+}
+
+#pelota-azul{
+    background-color: blue;
+    height: 130px;
+    width: 130px;
+    border-radius: 80px;
+    display: inline-block;   }
+
+   #pelota-verde{
+    background-color: green;
+    height: 130px;
+    width: 130px;
+    border-radius: 80px;
+    display: inline-block;
+   }
+
+   #pelota-roja{
+    background-color: red;
+    height: 130px;
+    width: 130px;
+    border-radius: 80px;
+    display: inline-block;
+   }
+
+   .caja-texto {
+       display: inline-block;
+       width: 49%;
+   }
+
+   .caja-imagen {
+       display: inline-block;
+       width: 49%;
+       
+     }
+     .imag {
+        box-shadow: 20px 20px 20px 10px rgba(0, 0, 0, 0.2);
+        width: 590px;
+        height: 370px;
+     }
+        
+   .titulo-texto {
+       display: inline-block;
+       text-align: center;
+       font-family: sans-serif;
+       
+   }
+
+   .descripcion-texto {
+       display: inline-block;
+       font-family: sans-serif;
+       
+   }
+
+   .caja-descripcion {
+       text-align: center;
+       
+   }
